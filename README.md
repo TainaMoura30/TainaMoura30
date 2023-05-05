@@ -8,7 +8,8 @@
 Eu sou <strong>Taina Moura</strong>, <strong>Mulher, Mãe  e em busca de um futuro melhor através da tecnologia.</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Javascript e Phyton. </strong> 
-- 📣 Nós podemos falar em: <strong>Português</strong>
+- 💭 Pergunte-me sobre: <strong>Programação, Música e Filhos..😉</strong>
+
 - ✨ Futura Dev Full Stack ✨
 
 
