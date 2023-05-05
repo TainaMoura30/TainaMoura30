@@ -13,12 +13,7 @@ Eu sou <strong>Taina Moura</strong>, <strong>Mulher, Mãe  e em busca de um futu
 - ✨ Futura Dev Full Stack ✨
 
 
-
-
-![687474703a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262376237305f64356664653332326637393134303630623764393937626139643530366135307e6d76322e676966](https://user-images.githubusercontent.com/132695812/236529605-55d389b2-392a-4986-80a2-56cfebe411d0.gif)
-
-
-
+![18e0641748101b3f7275f5723d4405f0](https://user-images.githubusercontent.com/132695812/236533806-79af0f45-15bd-42bd-a1bf-e5df538bbcfc.gif)
 
 <div align="center">
 
