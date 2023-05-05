@@ -5,11 +5,10 @@
 
 
 
-Eu sou <strong>Taina Moura</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Taina Moura</strong>, <strong>Mulher, Mãe  e em busca de um futuro melhor através da tecnologia.</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>Javascript e Phyton. </strong> 
+- 📣 Nós podemos falar em: <strong>Português</strong>
 
 <div align="center">
 
