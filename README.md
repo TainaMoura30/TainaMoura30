@@ -1,4 +1,9 @@
-# [Taina Moura] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# [Taina Moura] 
+
+![9cedcbd01e08b098d37f8493d77fe7ee](https://user-images.githubusercontent.com/132695812/236526432-8a37974d-ac1b-4c37-9ee6-f5c6875202b8.gif)
+
+
+
 
 Eu sou <strong>Taina Moura</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
